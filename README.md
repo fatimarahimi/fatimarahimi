@@ -5,11 +5,18 @@
 I started on the front line — six years in technical support onboarding at Linnworks and Malwarebytes. Now I build IoT connectivity and SaaS products, and I pull the numbers behind my decisions myself.
 
 ## What I've delivered
-- **Billing migration (1oT):** Led a 9-month move from Braintree to Stripe for ~400 business customers — 90%+ self-migrated, zero revenue lost
-- **Telecom platform:** Worked with Elisa and Bite on a SIM/eSIM management platform
+
+**As Product Manager (1oT)**
+- **Billing migration:** Led a 9-month move from Braintree to Stripe for ~400 business customers — 90%+ self-migrated, zero revenue lost
+- **Carrier integrations:** Shipped integrations with multiple telecom partners, including Elisa and Bite, on a SIM/eSIM management platform
+- **Product delivery:** Shipped hundreds of features, improvements and fixes
+- **Process:** Moved engineering to Jira and introduced a predictable release schedule
+- **Documentation:** Built customer-facing docs for the full platform and owned release notes
+- **Ownership:** Main point of contact for the Terminal platform and for two major licensing partners
+
+**As Data Analyst (DACA programme)**
 - **Customer segmentation:** Segmented 2,540 customers — 18% bring in 42.8% of revenue
 - **Automated pipeline:** Processes 10,118 sales in 2.5 seconds
-
 ## Skills
 - **Product:** discovery, PRDs, billing & pricing logic, stakeholder management
 - **Data:** SQL (PostgreSQL), Python (pandas), Power BI, Supabase, Git
