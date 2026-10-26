@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Fatima Rahimi 👋
 
-<!--
-**fatimarahimi/fatimarahimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Product Manager | SQL · Python · Power BI | SaaS & IoT**
 
-Here are some ideas to get you started:
+I started on the front line — six years in technical support onboarding at Linnworks and Malwarebytes. Now I build IoT connectivity and SaaS products, and I pull the numbers behind my decisions myself.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I've delivered
+- **Billing migration (1oT):** Led a 9-month move from Braintree to Stripe for ~400 business customers — 90%+ self-migrated, zero revenue lost
+- **Telecom platform:** Worked with Elisa and Bite on a SIM/eSIM management platform
+- **Customer segmentation:** Segmented 2,540 customers — 18% bring in 42.8% of revenue
+- **Automated pipeline:** Processes 10,118 sales in 2.5 seconds
+
+## Skills
+- **Product:** discovery, PRDs, billing & pricing logic, stakeholder management
+- **Data:** SQL (PostgreSQL), Python (pandas), Power BI, Supabase, Git
+
+## Featured projects
+- [RFM Customer Segmentation](https://github.com/fatimarahimi/daca-portfolio/tree/main/week-7) — Python, pandas
+- [Automated Sales Pipeline](https://github.com/fatimarahimi/daca-portfolio/tree/main/week-8) — Supabase API, Python
+- [Sales Dashboard](https://github.com/fatimarahimi/daca-portfolio/tree/main/week-5) — Power BI
+
+## Looking for
+Product roles where data drives decisions — SaaS, IoT or fintech. Tallinn or remote.
+
+📫 [LinkedIn](https://linkedin.com/in/fatimarahimi) · your@email.com
