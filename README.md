@@ -27,6 +27,6 @@ I started on the front line — six years in technical support onboarding at Lin
 - [Sales Dashboard](https://github.com/fatimarahimi/daca-portfolio/tree/main/week-5) — Power BI
 
 ## Looking for
-Product roles where data drives decisions — SaaS, IoT or fintech. Tallinn or remote.
+Product roles where data drives decisions — SaaS, IoT or Cybersecurity. Tallinn or remote.
 
 📫 [LinkedIn](https://linkedin.com/in/fatimarahimi) · your@email.com
